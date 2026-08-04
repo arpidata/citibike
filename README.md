@@ -38,19 +38,16 @@ The project combines data cleaning, feature engineering, exploratory data analys
 
 ## 📁 Project Structure
 
-`text
+```
 citibike/
-│
 ├── data/
 │   └── citibike/
-│
 ├── notebooks/
 │   ├── 1_Download_Citibike_Data.ipynb
 │   ├── 2_Data_Enrichment.ipynb
 │   ├── 3_Weather_Data.ipynb
 │   ├── 4_Data_Visualization.ipynb
 │   └── 5_Neighborhood_Analysis.ipynb
-│
 ├── README.md
 ├── .gitignore
 └── requirements.txt
